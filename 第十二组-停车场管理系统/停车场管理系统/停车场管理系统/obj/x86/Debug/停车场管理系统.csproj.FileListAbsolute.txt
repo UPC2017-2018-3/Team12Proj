@@ -1,0 +1,65 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\停车场管理系统\bin\Debug\停车场管理系统.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\停车场管理系统\bin\Debug\停车场管理系统.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\停车场管理系统\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\停车场管理系统\obj\x86\Debug\停车场管理系统.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\停车场管理系统\obj\x86\Debug\停车场管理系统.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\停车场管理系统\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\停车场管理系统\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\停车场管理系统\obj\x86\Debug\停车场管理系统.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\停车场管理系统\obj\x86\Debug\停车场管理系统.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\停车场管理系统\obj\x86\Debug\停车场管理系统.Form2.resources
+C:\Users\Administrator\Desktop\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.exe
+C:\Users\Administrator\Desktop\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.pdb
+C:\Users\Administrator\Desktop\停车场管理系统\停车场管理系统\bin\Debug\停车场管理系统.exe
+C:\Users\Administrator\Desktop\停车场管理系统\停车场管理系统\bin\Debug\停车场管理系统.pdb
+C:\Users\Administrator\Desktop\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Form1.resources
+C:\Users\Administrator\Desktop\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Form2.resources
+C:\Users\Administrator\Desktop\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Properties.Resources.resources
+F:\C#\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.exe
+F:\C#\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.pdb
+F:\C#\停车场管理系统\停车场管理系统\bin\Debug\停车场管理系统.exe
+F:\C#\停车场管理系统\停车场管理系统\bin\Debug\停车场管理系统.pdb
+F:\C#\停车场管理系统\停车场管理系统\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\C#\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Form1.resources
+F:\C#\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Form2.resources
+F:\C#\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Properties.Resources.resources
+F:\C#\停车场管理系统\停车场管理系统\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\C#\停车场管理系统\停车场管理系统\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Users\dawarlin\Desktop\学习\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.exe
+H:\Users\dawarlin\Desktop\学习\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.pdb
+H:\Users\dawarlin\Desktop\学习\停车场管理系统\停车场管理系统\bin\Debug\停车场管理系统.exe
+H:\Users\dawarlin\Desktop\学习\停车场管理系统\停车场管理系统\bin\Debug\停车场管理系统.pdb
+H:\Users\dawarlin\Desktop\学习\停车场管理系统\停车场管理系统\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Users\dawarlin\Desktop\学习\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Form1.resources
+H:\Users\dawarlin\Desktop\学习\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Form2.resources
+H:\Users\dawarlin\Desktop\学习\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Form3.resources
+H:\Users\dawarlin\Desktop\学习\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Properties.Resources.resources
+H:\Users\dawarlin\Desktop\学习\停车场管理系统\停车场管理系统\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Users\dawarlin\Desktop\学习\停车场管理系统\停车场管理系统\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Users\dawarlin\Desktop\学习\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Form4.resources
+H:\C#\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.exe
+H:\C#\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.pdb
+H:\C#\停车场管理系统\停车场管理系统\bin\Debug\停车场管理系统.exe
+H:\C#\停车场管理系统\停车场管理系统\bin\Debug\停车场管理系统.pdb
+H:\C#\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Form2.resources
+H:\C#\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Form3.resources
+H:\C#\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Form1.resources
+H:\C#\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Form4.resources
+H:\C#\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Properties.Resources.resources
+H:\C#\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.csproj.GenerateResource.Cache
+J:\C#\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.exe
+J:\C#\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.pdb
+C:\Users\Administrator\Desktop\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Form3.resources
+C:\Users\Administrator\Desktop\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Form4.resources
+C:\Users\Administrator\Desktop\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.csproj.GenerateResource.Cache
+D:\小学期\新建文件夹\新编停车场\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.exe
+D:\小学期\新建文件夹\新编停车场\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.pdb
+D:\小学期\新建文件夹\新编停车场\停车场管理系统\停车场管理系统\bin\Debug\停车场管理系统.exe
+D:\小学期\新建文件夹\新编停车场\停车场管理系统\停车场管理系统\bin\Debug\停车场管理系统.pdb
+D:\小学期\新建文件夹\新编停车场\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.csprojResolveAssemblyReference.cache
+D:\小学期\新建文件夹\新编停车场\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Form2.resources
+D:\小学期\新建文件夹\新编停车场\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Form3.resources
+D:\小学期\新建文件夹\新编停车场\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Form1.resources
+D:\小学期\新建文件夹\新编停车场\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Form4.resources
+D:\小学期\新建文件夹\新编停车场\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.Properties.Resources.resources
+D:\小学期\新建文件夹\新编停车场\停车场管理系统\停车场管理系统\obj\x86\Debug\停车场管理系统.csproj.GenerateResource.Cache
